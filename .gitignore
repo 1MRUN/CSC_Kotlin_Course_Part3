@@ -1,0 +1,14 @@
+# Project exclude paths
+/.gradle/
+/backToTheFutureServer/task/build/
+/backToTheFutureServer/task/out/
+/backToTheFutureServer/task/out/production/classes/
+/common/build/
+/common/build/classes/kotlin/jvm/main/
+/duckShopServer/task/out/
+/duckShopServer/task/out/production/classes/
+/oldSchoolServer/task/build/
+/oldSchoolServer/task/out/
+/oldSchoolServer/task/out/production/classes/
+/utils/build/
+/utils/out/

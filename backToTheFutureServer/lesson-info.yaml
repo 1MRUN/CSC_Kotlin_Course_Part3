@@ -1,0 +1,14 @@
+type: framework
+custom_name: Back to the future
+content:
+  - backToTheFutureServerIntroduction
+  - backToTheFutureServerHowToRun
+  - backToTheFutureServerFifo
+  - backToTheFutureServerLifo
+  - backToTheFutureServerInKotlin
+  - backToTheFutureServerAddCommands
+  - backToTheFutureServerAddCommand
+  - backToTheFutureServerGetCommand
+  - backToTheFutureServerImprovements
+is_template_based: false
+current_task: 8
